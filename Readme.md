@@ -7,7 +7,7 @@
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
-- [Installation](#installation)
+- [Installation][(#installation)]
 - [Features](#features)
 - [Docs \& Community](#docs--community)
 - [Quick Start](#quick-start)
