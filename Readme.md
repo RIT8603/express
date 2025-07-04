@@ -1,4 +1,4 @@
-[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](https://expressjs.com/)
+# I am creator of this app 
 
 **Fast, unopinionated, minimalist web framework for [Node.js](https://nodejs.org).**
 
